@@ -17,7 +17,7 @@ I will collect and add jupyter and/or script for learning and experimenting purp
 For further resources and support, feel free to reach out to the community or refer to the following:
 
 - [BitandBytes Library Documentation](https://github.com/TimDettmers/bitsandbytes): Learn more about the BitandBytes library for quantization.
-- [Auto-GPTQ GitHub Repository](hhttps://github.com/AutoGPTQ/AutoGPTQ): Access the auto-gptq library for GPTQ format quantization.
+- [Auto-GPTQ GitHub Repository](https://github.com/AutoGPTQ/AutoGPTQ): Access the auto-gptq library for GPTQ format quantization.
 
 ## Contributors
 
