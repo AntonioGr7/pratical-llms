@@ -1,0 +1,5 @@
+datasets==2.18.0
+bitsandbytes==0.43.0
+accelerate==0.28.0
+transformers==4.39.3
+auto-gptq==0.2.0
