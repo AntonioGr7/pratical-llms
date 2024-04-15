@@ -12,7 +12,7 @@ I will collect and add jupyter and/or script for learning and experimenting purp
 | 3_quantization_gptq.ipynb                 | Explore quantization in GPTQ format using the auto-gptq library with this notebook. GPTQ format is gaining popularity for its effectiveness in compressing and quantizing large models like GPT. Learn how to leverage this format for your models. | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/3_quantization_gptq.ipynb) |
 | 4_quantization_exllamav2.ipynb | How to quantize a model from HF to exllamav2 | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/4_quantization_exllamav2.ipynb) |
 | 5_sharding_and_offloading.ipynb | How to shard a model in multiple chunk. This allow to load it on different devices or load one at time managing memory. Learn how to offload some layer to CPU or even disk | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/5_sharding_and_offloading.ipynb) |
-| 6_gguf_quantization_and_inference.ipynb | Quantize a model into GGUF using the llama.cpp library. Inferencing on OpenAI-compatible server. | [Link]([https://github.com/AntonioGr7/pratical-llms/blob/main/5_sharding_and_offloading.ipynb](https://github.com/AntonioGr7/pratical-llms/blob/main/6_gguf_quantization_and_inference.ipynb) |
+| 6_gguf_quantization_and_inference.ipynb | Quantize a model into GGUF using the llama.cpp library. Inferencing on OpenAI-compatible server. | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/6_gguf_quantization_and_inference.ipynb) |
 
 
 ## Additional Resources
