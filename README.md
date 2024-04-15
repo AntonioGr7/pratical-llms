@@ -23,5 +23,6 @@ For further resources and support, feel free to reach out to the community or re
 - [Auto-GPTQ GitHub Repository](https://github.com/AutoGPTQ/AutoGPTQ): Access the auto-gptq library for GPTQ format quantization.
 - [ExLlamaV2 GitHub Repository](https://github.com/turboderp/exllamav2): Learn more about the ExLlamaV2 library for quantization and fast inference.
 - [Accelerate GitHub Repository](https://github.com/huggingface/accelerate): Learn more about the Accelerate library from HF.
+- [llama.cpp Github Repository](https://github.com/ggerganov/llama.cpp): Learn more about the llama.cpp library.
 
 Happy learning and experimenting with LLMs! 🚀
