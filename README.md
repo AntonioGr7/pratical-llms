@@ -7,11 +7,11 @@ I will collect and add jupyter and/or script for learning and experimenting purp
 
 | Notebook                                   | Description                                                                                                                                                                       | Url  |
 |--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
-| 1_understanding_llms_benchmarks.ipynb     | This notebook provides an explanation of the main benchmarks used in the openLLM leaderboard. It aims to help you grasp the key metrics and methodologies used in benchmarking LLMs. | [Link](#) |
-| 2_quantization_base.ipynb                 | In this notebook, you'll learn how to open a Hugging Face model in 8-bit and 4-bit using the BitandBytes library. Quantization is a crucial technique for optimizing model performance and resource usage, and this notebook guides you through the process. | [Link](#) |
-| 3_quantization_gptq.ipynb                 | Explore quantization in GPTQ format using the auto-gptq library with this notebook. GPTQ format is gaining popularity for its effectiveness in compressing and quantizing large models like GPT. Learn how to leverage this format for your models. | [Link](#) |
-| 4_quantization_exllamav2.ipynb | How to quantize a model from HF to exllamav2 | [Link](#) |
-| 5_sharding_and_offloading.ipynb | How to shard a model in multiple chunk. This allow to load it on different devices or load one at time managing memory. Learn how to offload some layer to CPU or even disk | [Link](#) |
+| 1_understanding_llms_benchmarks.ipynb     | This notebook provides an explanation of the main benchmarks used in the openLLM leaderboard. It aims to help you grasp the key metrics and methodologies used in benchmarking LLMs. | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/1_understanding_llms_benchmarks.ipynb) |
+| 2_quantization_base.ipynb                 | In this notebook, you'll learn how to open a Hugging Face model in 8-bit and 4-bit using the BitandBytes library. Quantization is a crucial technique for optimizing model performance and resource usage, and this notebook guides you through the process. | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/2_quantization_base.ipynb) |
+| 3_quantization_gptq.ipynb                 | Explore quantization in GPTQ format using the auto-gptq library with this notebook. GPTQ format is gaining popularity for its effectiveness in compressing and quantizing large models like GPT. Learn how to leverage this format for your models. | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/3_quantization_gptq.ipynb) |
+| 4_quantization_exllamav2.ipynb | How to quantize a model from HF to exllamav2 | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/4_quantization_exllamav2.ipynb) |
+| 5_sharding_and_offloading.ipynb | How to shard a model in multiple chunk. This allow to load it on different devices or load one at time managing memory. Learn how to offload some layer to CPU or even disk | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/5_sharding_and_offloading.ipynb) |
 
 
 ## Additional Resources
