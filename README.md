@@ -27,7 +27,7 @@ For further resources and support, feel free to reach out to the community or re
 
 ## Additional Resources
 
-- [Which GGUF is right for me?]([https://github.com/ggerganov/llama.cpp](https://gist.github.com/Artefact2/b5f810600771265fc1e39442288e8ec9)): Useful reference on GGUF and guide on how to choose the right quantization for your scenario.
-- [Interesting thread on GGUF on reddit]([https://www.reddit.com/r/LocalLLaMA/comments/1ba55rj/overview_of_gguf_quantization_methods/)): Useful reference on GGUF.
+- [Which GGUF is right for me?](https://gist.github.com/Artefact2/b5f810600771265fc1e39442288e8ec9): Useful reference on GGUF and guide on how to choose the right quantization for your scenario.
+- [Interesting thread on GGUF on reddit](https://www.reddit.com/r/LocalLLaMA/comments/1ba55rj/overview_of_gguf_quantization_methods/): Useful reference on GGUF.
 
 Happy learning and experimenting with LLMs! 🚀
