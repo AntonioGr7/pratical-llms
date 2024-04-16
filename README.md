@@ -33,5 +33,6 @@ For further resources and support, feel free to reach out to the community or re
 - [Which GGUF is right for me?](https://gist.github.com/Artefact2/b5f810600771265fc1e39442288e8ec9): Useful reference on GGUF and guide on how to choose the right quantization for your scenario.
 - [Interesting reddit thread on GGUF](https://www.reddit.com/r/LocalLLaMA/comments/1ba55rj/overview_of_gguf_quantization_methods/): Useful reference on GGUF.
 - [Half-Quadratic Quantization of Large Machine Learning Models](https://mobiusml.github.io/hqq_blog/): HQQ Blog post
+- [GPTQ vs AWS vs EXL2 vs llamacpp](https://oobabooga.github.io/blog/posts/gptq-awq-exl2-llamacpp/): Quantization method performance (Memory, Speed and VRAM) comparison
 
 Happy learning and experimenting with LLMs! 🚀
