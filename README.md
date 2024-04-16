@@ -14,6 +14,7 @@ I will collect and add jupyter and/or script for learning and experimenting purp
 | 5_sharding_and_offloading.ipynb | How to shard a model in multiple chunk. This allow to load it on different devices or load one at time managing memory. Learn how to offload some layer to CPU or even disk | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/5_sharding_and_offloading.ipynb) |
 | 6_gguf_quantization_and_inference.ipynb | Quantize a model into GGUF using the llama.cpp library. Inferencing on OpenAI-compatible server. | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/6_gguf_quantization_and_inference.ipynb) |
 | 7_gguf_split_and_load.ipynb | Split a GGUF Quantized model in multiple parts, making it easily sharable | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/7_gguf_split_and_load.ipynb) |
+| 8_hqq_quantization.ipynb | Explore quantization using Half-Quadratic Quantization (HQQ) | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/8_hqq_quantization.ipynb) |
 
 
 ## References
@@ -25,10 +26,12 @@ For further resources and support, feel free to reach out to the community or re
 - [ExLlamaV2 GitHub Repository](https://github.com/turboderp/exllamav2): Learn more about the ExLlamaV2 library for quantization and fast inference.
 - [Accelerate GitHub Repository](https://github.com/huggingface/accelerate): Learn more about the Accelerate library from HF.
 - [llama.cpp Github Repository](https://github.com/ggerganov/llama.cpp): Learn more about the llama.cpp library.
+- [HQQ Github Repository](https://github.com/mobiusml/hqq): Learn more about the HQQ library.
 
 ## Additional Resources
 
 - [Which GGUF is right for me?](https://gist.github.com/Artefact2/b5f810600771265fc1e39442288e8ec9): Useful reference on GGUF and guide on how to choose the right quantization for your scenario.
 - [Interesting reddit thread on GGUF](https://www.reddit.com/r/LocalLLaMA/comments/1ba55rj/overview_of_gguf_quantization_methods/): Useful reference on GGUF.
+- [Half-Quadratic Quantization of Large Machine Learning Models](https://mobiusml.github.io/hqq_blog/): HQQ Blog post
 
 Happy learning and experimenting with LLMs! 🚀
