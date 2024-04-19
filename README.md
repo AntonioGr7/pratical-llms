@@ -15,6 +15,7 @@ I will collect and add jupyter and/or script for learning and experimenting purp
 | 6_gguf_quantization_and_inference.ipynb | Quantize a model into GGUF using the llama.cpp library. Inferencing on OpenAI-compatible server. | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/6_gguf_quantization_and_inference.ipynb) |
 | 7_gguf_split_and_load.ipynb | Split a GGUF Quantized model in multiple parts, making it easily sharable | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/7_gguf_split_and_load.ipynb) |
 | 8_hqq_quantization.ipynb | Explore quantization using Half-Quadratic Quantization (HQQ) | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/8_hqq_quantization.ipynb) |
+| 9_inference_big_model_cpu_plus_gpu.ipynb | This notebook shows how to calculate the RAM required by a quantized GGUF model and how to load it into memory using both RAM and VRAM, optimizing the number of layers that can be offloaded to the GPU. The notebook demonstrates loading Qwen/Qwen1.5-32B-Chat-GGUF as an example on a system with a T4 15GB VRAM and approximately 32GB of RAM | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/9_inference_big_model_cpu_plus_gpu.ipynb) |
 
 
 ## References
