@@ -17,6 +17,7 @@ I will collect and add jupyter and/or script for learning and experimenting purp
 | 8_hqq_quantization.ipynb | Explore quantization using Half-Quadratic Quantization (HQQ) | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/08_hqq_quantization.ipynb) |
 | 9_inference_big_model_cpu_plus_gpu.ipynb | This notebook shows how to calculate the RAM required by a quantized GGUF model and how to load it into memory using both RAM and VRAM, optimizing the number of layers that can be offloaded to the GPU. The notebook demonstrates loading Qwen/Qwen1.5-32B-Chat-GGUF as an example on a system with a T4 15GB VRAM and approximately 32GB of RAM | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/09_inference_big_model_cpu_plus_gpu.ipynb) |
 | a10_inference_llama3.ipynb | LLama3 has been released. This notebook demonstrates how to run LLama3-8B-Instruct half precision if you have access to a GPU with 24GB of VRAM, quantized to 8 bits if you have 10GB of VRAM, and shows how to run the Q8 GGUF version to achieve maximum performance if you only have 10GB of VRAM. | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a10_inference_llama3.ipynb) |
+| a11_llm_guardrails_using_llama3_guard.ipynb | Protect your backend and your generative AI applications using LLama3-guard-2. In this notebook, I show you how to set up a server using 10GB of VRAM and how to perform inference through HTTP POST requests. | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a11_llm_guardrails_using_llama3_guard.ipynb) |
 
 
 ## References
