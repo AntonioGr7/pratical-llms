@@ -39,6 +39,6 @@ For further resources and support, feel free to reach out to the community or re
 - [Interesting reddit thread on GGUF](https://www.reddit.com/r/LocalLLaMA/comments/1ba55rj/overview_of_gguf_quantization_methods/): Useful reference on GGUF.
 - [Half-Quadratic Quantization of Large Machine Learning Models](https://mobiusml.github.io/hqq_blog/): HQQ Blog post
 - [GPTQ vs AWS vs EXL2 vs llamacpp](https://oobabooga.github.io/blog/posts/gptq-awq-exl2-llamacpp/): Quantization method performance (Memory, Speed and VRAM) comparison
-- [PROMETHEUS 2 AS JUDGE] (https://huggingface.co/prometheus-eval/prometheus-7b-v2.0): Prometheus 2 model optimize to evaluate the answers of LLMs
+- [PROMETHEUS 2 Model](https://huggingface.co/prometheus-eval/prometheus-7b-v2.0): Prometheus 2 model optimize to evaluate the answers of LLMs
 
 Happy learning and experimenting with LLMs! 🚀
