@@ -33,7 +33,7 @@ For further resources and support, feel free to reach out to the community or re
 - [Accelerate GitHub Repository](https://github.com/huggingface/accelerate): Learn more about the Accelerate library from HF.
 - [llama.cpp Github Repository](https://github.com/ggerganov/llama.cpp): Learn more about the llama.cpp library.
 - [HQQ Github Repository](https://github.com/mobiusml/hqq): Learn more about the HQQ library.
-- [https://github.com/mobiusml/hqq](https://github.com/EleutherAI/lm-evaluation-harness/tree/main): Official repo of EleutherAI/lm-evaluation-harness 
+- [EleutheraAI LLM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness/tree/main): Official repo of EleutherAI/lm-evaluation-harness 
 
 ## Additional Resources
 
