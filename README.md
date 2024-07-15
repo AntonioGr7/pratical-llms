@@ -22,6 +22,7 @@ I will collect and add jupyter and/or script for learning and experimenting purp
 | a13_inference_vision_llm.ipynb | The notebook demonstrates how to perform a simple inference using a vision LLM. For the example, I chose Microsoft's newly released Phi-3-vision-128k-instruct. The model is MIT licensed, so it can be used in your own applications without any restrictions. The model can run on one Nvidia L4. | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a13_inference_vision_llm.ipynb) |
 | a14_llm_as_evaluator.ipynb | The notebook demonstrates how to use an LLM as Judge using Prometheus 2. In the notebook is shown how to evaluate an answer returned from any of our LLM or application pipeline. | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a14_llm_as_evaluator.ipynb) |
 | a15_llm_evaluation.ipynb | The notebook demonstrates how to use EleutherAI/lm-evaluation-harness to evaluate LLMs on commons benchmarks used also in the official leaderboards. The process is the same used automatically when you submit a model to the leaderboard | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a15_llm_evaluation.ipynb) |
+| a16_synthetic_data_generation.ipynb | In this notebook, I created a custom class for generating a synthetic QA dataset from an input file using Llama-3-8B as LLM. The script also demonstrates how to build and run the new version of llama-server on llama-3-8b-Q_8 GGUF| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a16_synthetic_data_generation.ipynb) | 
 
 ## References
 
