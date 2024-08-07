@@ -23,6 +23,7 @@ I will collect and add jupyter and/or script for learning and experimenting purp
 | a14_llm_as_evaluator.ipynb | The notebook demonstrates how to use an LLM as Judge using Prometheus 2. In the notebook is shown how to evaluate an answer returned from any of our LLM or application pipeline. | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a14_llm_as_evaluator.ipynb) |
 | a15_llm_evaluation.ipynb | The notebook demonstrates how to use EleutherAI/lm-evaluation-harness to evaluate LLMs on commons benchmarks used also in the official leaderboards. The process is the same used automatically when you submit a model to the leaderboard | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a15_llm_evaluation.ipynb) |
 | a16_synthetic_data_generation.ipynb | In this notebook, I created a custom class for generating a synthetic QA dataset from an input file using Llama-3-8B as LLM. The script also demonstrates how to build and run the new version of llama-server on llama-3-8b-Q_8 GGUF| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a16_synthetic_data_generation.ipynb) | 
+| a17_sglan_serving_llm_multiusers.ipynb | In this notebook, I show all the steps on how to efficiently deploy LLama3.1-8B-FP8 on a custom server using SGLang and serve 64 potentially parallel users while maintaining good performance.| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a17_sglan_serving_llm_multiusers.ipynb) | 
 
 ## References
 
@@ -34,7 +35,8 @@ For further resources and support, feel free to reach out to the community or re
 - [Accelerate GitHub Repository](https://github.com/huggingface/accelerate): Learn more about the Accelerate library from HF.
 - [llama.cpp Github Repository](https://github.com/ggerganov/llama.cpp): Learn more about the llama.cpp library.
 - [HQQ Github Repository](https://github.com/mobiusml/hqq): Learn more about the HQQ library.
-- [EleutheraAI LLM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness/tree/main): Official repo of EleutherAI/lm-evaluation-harness 
+- [EleutheraAI LLM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness/tree/main): Official repo of EleutherAI/lm-evaluation-harness
+- [SGLang official repo](https://github.com/sgl-project/sglang): Official repo of SGLang - fast serving framework
 
 ## Additional Resources
 
@@ -43,5 +45,6 @@ For further resources and support, feel free to reach out to the community or re
 - [Half-Quadratic Quantization of Large Machine Learning Models](https://mobiusml.github.io/hqq_blog/): HQQ Blog post
 - [GPTQ vs AWS vs EXL2 vs llamacpp](https://oobabooga.github.io/blog/posts/gptq-awq-exl2-llamacpp/): Quantization method performance (Memory, Speed and VRAM) comparison
 - [PROMETHEUS 2 Model](https://huggingface.co/prometheus-eval/prometheus-7b-v2.0): Prometheus 2 model optimize to evaluate the answers of LLMs
+- [SGLang Blog](https://lmsys.org/blog/2024-01-17-sglang/): Fast and Expressive LLM Inference with RadixAttention and SGLang
 
 Happy learning and experimenting with LLMs! 🚀
