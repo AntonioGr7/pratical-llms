@@ -24,6 +24,7 @@ I will collect and add jupyter and/or script for learning and experimenting purp
 | a15_llm_evaluation.ipynb | The notebook demonstrates how to use EleutherAI/lm-evaluation-harness to evaluate LLMs on commons benchmarks used also in the official leaderboards. The process is the same used automatically when you submit a model to the leaderboard | [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a15_llm_evaluation.ipynb) |
 | a16_synthetic_data_generation.ipynb | In this notebook, I created a custom class for generating a synthetic QA dataset from an input file using Llama-3-8B as LLM. The script also demonstrates how to build and run the new version of llama-server on llama-3-8b-Q_8 GGUF| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a16_synthetic_data_generation.ipynb) | 
 | a17_sglan_serving_llm_multiusers.ipynb | In this notebook, I show all the steps on how to efficiently deploy LLama3.1-8B-FP8 on a custom server using SGLang and serve 64 potentially parallel users while maintaining good performance.| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a17_sglan_serving_llm_multiusers.ipynb) | 
+| a18_jailbreak_control_using_promptguard.ipynb | Trying the new PromptGuard-86M for jailbreak. Spoiler: the model seems broken or really bad in this moment| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a18_jailbreak_control_using_promptguard.ipynb) | 
 
 ## References
 
