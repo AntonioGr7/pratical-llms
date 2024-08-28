@@ -25,6 +25,7 @@ I will collect and add jupyter and/or script for learning and experimenting purp
 | a16_synthetic_data_generation.ipynb | In this notebook, I created a custom class for generating a synthetic QA dataset from an input file using Llama-3-8B as LLM. The script also demonstrates how to build and run the new version of llama-server on llama-3-8b-Q_8 GGUF| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a16_synthetic_data_generation.ipynb) | 
 | a17_sglan_serving_llm_multiusers.ipynb | In this notebook, I show all the steps on how to efficiently deploy LLama3.1-8B-FP8 on a custom server using SGLang and serve 64 potentially parallel users while maintaining good performance.| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a17_sglan_serving_llm_multiusers.ipynb) | 
 | a18_jailbreak_control_using_promptguard.ipynb | Trying the new PromptGuard-86M for jailbreak. Spoiler: the model seems broken or really bad in this moment| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a18_jailbreak_control_using_promptguard.ipynb) | 
+| a19_document_information_and_table_extraction.ipynb | This notebook demonstrates how to use a multimodal literate model (Kosmos 2.5) to accurately and efficiently extract text and tables without using paid cloud services. The model runs on your personal GPU, keeping your data private and secure.| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a19_document_information_and_table_extraction.ipynb) | 
 
 ## References
 
@@ -47,5 +48,6 @@ For further resources and support, feel free to reach out to the community or re
 - [GPTQ vs AWS vs EXL2 vs llamacpp](https://oobabooga.github.io/blog/posts/gptq-awq-exl2-llamacpp/): Quantization method performance (Memory, Speed and VRAM) comparison
 - [PROMETHEUS 2 Model](https://huggingface.co/prometheus-eval/prometheus-7b-v2.0): Prometheus 2 model optimize to evaluate the answers of LLMs
 - [SGLang Blog](https://lmsys.org/blog/2024-01-17-sglang/): Fast and Expressive LLM Inference with RadixAttention and SGLang
+- [KOSMOS 2.5 Model](https://huggingface.co/microsoft/kosmos-2.5): Kosmos-2.5 is a multimodal literate model for machine reading of text-intensive images.
 
 Happy learning and experimenting with LLMs! 🚀
