@@ -26,6 +26,7 @@ I will collect and add jupyter and/or script for learning and experimenting purp
 | a17_sglan_serving_llm_multiusers.ipynb | In this notebook, I show all the steps on how to efficiently deploy LLama3.1-8B-FP8 on a custom server using SGLang and serve 64 potentially parallel users while maintaining good performance.| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a17_sglan_serving_llm_multiusers.ipynb) | 
 | a18_jailbreak_control_using_promptguard.ipynb | Trying the new PromptGuard-86M for jailbreak. Spoiler: the model seems broken or really bad in this moment| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a18_jailbreak_control_using_promptguard.ipynb) | 
 | a19_document_information_and_table_extraction.ipynb | This notebook demonstrates how to use a multimodal literate model (Kosmos 2.5) to accurately and efficiently extract text and tables without using paid cloud services. The model runs on your personal GPU, keeping your data private and secure.| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a19_document_information_and_table_extraction.ipynb) | 
+| a20_finetuning_llm_unsloth.ipynb | This notebook shows how to finetune Phi-3.5-mini-instruct using unsloth on a HF dataset of <thinking> <answer> structure| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a20_finetuning_llm_unsloth.ipynb) | 
 
 ## References
 
