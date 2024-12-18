@@ -27,6 +27,7 @@ I will collect and add jupyter and/or script for learning and experimenting purp
 | a18_jailbreak_control_using_promptguard.ipynb | Trying the new PromptGuard-86M for jailbreak. Spoiler: the model seems broken or really bad in this moment| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a18_jailbreak_control_using_promptguard.ipynb) | 
 | a19_document_information_and_table_extraction.ipynb | This notebook demonstrates how to use a multimodal literate model (Kosmos 2.5) to accurately and efficiently extract text and tables without using paid cloud services. The model runs on your personal GPU, keeping your data private and secure.| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a19_document_information_and_table_extraction.ipynb) | 
 | a20_finetuning_llm_unsloth.ipynb | This notebook shows how to finetune Phi-3.5-mini-instruct using unsloth on a HF dataset of chain of 'thinking' structure| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a20_finetuning_llm_unsloth.ipynb) | 
+| a21_vllm_inference_llmcompressor.ipynb | This notebook shows how to use vLLM to serve your models and how to quantize them using LLMCompressor gaining 25% to 30% performance increase| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a21_vllm_inference_llmcompressor.ipynb) | 
 
 ## References
 
