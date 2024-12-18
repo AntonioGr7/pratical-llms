@@ -41,6 +41,8 @@ For further resources and support, feel free to reach out to the community or re
 - [HQQ Github Repository](https://github.com/mobiusml/hqq): Learn more about the HQQ library.
 - [EleutheraAI LLM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness/tree/main): Official repo of EleutherAI/lm-evaluation-harness
 - [SGLang official repo](https://github.com/sgl-project/sglang): Official repo of SGLang - fast serving framework
+- [VLLM docs](https://docs.vllm.ai/en/latest/): Official documentation of VLLM - Easy, fast, and cheap LLM serving for everyone
+- [LLM Compressor by Neural Magic](https://neuralmagic.com/blog/llm-compressor-is-here-faster-inference-with-vllm/):  LLM Compressor is a unified library for creating compressed models for faster inference with vLLM
 
 ## Additional Resources
 
