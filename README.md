@@ -28,7 +28,7 @@ I will collect and add jupyter and/or script for learning and experimenting purp
 | a19_document_information_and_table_extraction.ipynb | This notebook demonstrates how to use a multimodal literate model (Kosmos 2.5) to accurately and efficiently extract text and tables without using paid cloud services. The model runs on your personal GPU, keeping your data private and secure.| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a19_document_information_and_table_extraction.ipynb) | 
 | a20_finetuning_llm_unsloth.ipynb | This notebook shows how to finetune Phi-3.5-mini-instruct using unsloth on a HF dataset of chain of 'thinking' structure| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a20_finetuning_llm_unsloth.ipynb) | 
 | a21_vllm_inference_llmcompressor.ipynb | This notebook shows how to use vLLM to serve your models and how to quantize them using LLMCompressor gaining 25% to 30% performance increase| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a21_vllm_inference_llmcompressor.ipynb) | 
-| a22_cache_augmented_generation.ipynb | This notebook shows my implementation of Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks| [Link]([https://github.com/AntonioGr7/pratical-llms/blob/main/a21_vllm_inference_llmcompressor.ipynb]) | 
+| a22_cache_augmented_generation.ipynb | This notebook shows my implementation of Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks| [Link](https://github.com/AntonioGr7/pratical-llms/blob/main/a21_vllm_inference_llmcompressor.ipynb) | 
 
 ## References
 
@@ -54,6 +54,6 @@ For further resources and support, feel free to reach out to the community or re
 - [PROMETHEUS 2 Model](https://huggingface.co/prometheus-eval/prometheus-7b-v2.0): Prometheus 2 model optimize to evaluate the answers of LLMs
 - [SGLang Blog](https://lmsys.org/blog/2024-01-17-sglang/): Fast and Expressive LLM Inference with RadixAttention and SGLang
 - [KOSMOS 2.5 Model](https://huggingface.co/microsoft/kosmos-2.5): Kosmos-2.5 is a multimodal literate model for machine reading of text-intensive images.
-- [Cache-Augmented Generation]([https://huggingface.co/microsoft/kosmos-2.5](https://arxiv.org/html/2412.15605v1): Don’t Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks
+- [Cache-Augmented Generation](https://arxiv.org/html/2412.15605v1): Don’t Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks
 
 Happy learning and experimenting with LLMs! 🚀
